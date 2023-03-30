@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: F:\GraduationProject\test\yolov5\data\ImageSets\train.txt
+val: F:\GraduationProject\test\yolov5\data\ImageSets\val.txt
+test: F:\GraduationProject\test\yolov5\data\ImageSets\test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['smoke']
